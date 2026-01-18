@@ -127,9 +127,7 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ## 🧰 Development Tools
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubcopilot,replit&titles=true&perline=5&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,yarn,pnpm,eslint,prettier&titles=true&perline=5&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,apidog,expo,jwt,markdown,regex&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubcopilot,replit,npm,yarn,pnpm,eslint,prettier,postman,apidog,expo,jwt,markdown,regex&titles=true&perline=5&theme=dark" />
 </p>
 
 ---
@@ -146,7 +144,7 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ## 🌐 Browsers & Testing
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,brave,opera&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,brave,opera,firefox&titles=true&perline=5&theme=dark" />
 </p>
 
 ---
