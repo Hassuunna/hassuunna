@@ -72,7 +72,7 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ### Backend
 
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,graphql,java,spring,postman,,lambda&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,graphql&titles=true&theme=dark" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,postman,lambda&titles=true&theme=dark" />
 </div>
 
