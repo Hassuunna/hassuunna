@@ -71,39 +71,36 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 
 ### Backend
 
-<p>
+<div class="responsive-icons">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,java,spring,postman,graphql,lambda&titles=true&theme=dark" />
-</p>
+</div>
 
 ### Frontend
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,next,netlify,vite,tailwind,bootstrap,sass,css,html,jquery,figma&titles=true&theme=dark" />
-</p>
-
-### Desktop
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=electron,qt,cs&titles=true&theme=dark" />
-</p>
+<div class="responsive-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,next,netlify,vite&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,sass,css,html,jquery,figma&titles=true&theme=dark" />
+</div>
 
 ### Databases
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,sequelize,dbeaver&titles=true&theme=dark" />
-</p>
+<div class="responsive-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,mssql,sequelize,dbeaver&titles=true&theme=dark" />
+</div>
 
 ### Cloud & DevOps
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,s3,heroku,jenkins,circleci,ngrok&titles=true&theme=dark" />
-</p>
+<div class="responsive-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,s3,heroku&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins,circleci,ngrok&titles=true&theme=dark" />
+</div>
 
 ### Operating Systems & Tools
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,vscode,vscodeinsiders,wireshark,xd,idea,visualstudio&titles=true&theme=dark" />
-</p>
+<div class="responsive-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,wireshark&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=xd,photoshop,replit,codeblocks&titles=true&theme=dark" />
+</div>
 
 ---
 
@@ -118,33 +115,36 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 
 ## 🧠 Languages
 
-<p>
+<div class="responsive-icons">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin,python,cs,sql&titles=true&theme=dark" />
-</p>
+</div>
 
 ---
 
 ## 🧰 Development Tools
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubcopilot,replit,npm,yarn,pnpm,eslint,prettier,postman,apidog,expo,jwt,markdown,regex&titles=true&theme=dark" />
-</p>
+<div class="responsive-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubcopilot&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,yarn,pnpm,eslint,prettier&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,apidog,expo,jwt,markdown,regex&titles=true&theme=dark" />
+</div>
 
 ---
 
 ## 🤖 AI & Collaboration
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot,jira,miro,grafana,linkedin&titles=true&theme=dark" />
-</p>
+<div class="responsive-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot&titles=true&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,miro,grafana,linkedin&titles=true&theme=dark" />
+</div>
 
 ---
 
 ## 🌐 Browsers & Testing
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,brave,opera,firefox&titles=true&theme=dark" />
-</p>
+<div class="responsive-icons">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,brave,opera&titles=true&theme=dark" />
+</div>
 
 ---
 
@@ -153,3 +153,16 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 > Clean architecture.  
 > Clear ownership.  
 > Systems that scale without drama.
+
+<style>
+  @media (max-width: 600px) {
+    .responsive-icons img {
+      width: calc(100% / 3); /* Adjust the number based on how many icons per line you want */
+    }
+  }
+  @media (min-width: 601px) {
+    .responsive-icons img {
+      width: calc(100% / 4); /* Adjust for larger screens */
+    }
+  }
+</style>
