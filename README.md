@@ -72,37 +72,37 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ### Backend
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,java,spring,postman,graphql,lambda&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,java,spring,postman,graphql,lambda&titles=true&theme=dark" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,next,netlify,vite,tailwind,bootstrap,sass,css,html,jquery,figma&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,next,netlify,vite,tailwind,bootstrap,sass,css,html,jquery,figma&titles=true&theme=dark" />
 </p>
 
 ### Desktop
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=electron,qt,cs&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=electron,qt,cs&titles=true&theme=dark" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,sequelize,dbeaver&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,sequelize,dbeaver&titles=true&theme=dark" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,s3,heroku,jenkins,circleci,ngrok&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,s3,heroku,jenkins,circleci,ngrok&titles=true&theme=dark" />
 </p>
 
 ### Operating Systems & Tools
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,vscode,vscodeinsiders,wireshark,xd,idea,visualstudio&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,vscode,vscodeinsiders,wireshark,xd,idea,visualstudio&titles=true&theme=dark" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ## 🧠 Languages
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin,python,cs,sql&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin,python,cs,sql&titles=true&theme=dark" />
 </p>
 
 ---
@@ -127,7 +127,7 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ## 🧰 Development Tools
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubcopilot,replit,npm,yarn,pnpm,eslint,prettier,postman,apidog,expo,jwt,markdown,regex&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubcopilot,replit,npm,yarn,pnpm,eslint,prettier,postman,apidog,expo,jwt,markdown,regex&titles=true&theme=dark" />
 </p>
 
 ---
@@ -135,8 +135,7 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ## 🤖 AI & Collaboration
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot&titles=true&perline=5&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,miro,grafana,linkedin&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot,jira,miro,grafana,linkedin&titles=true&theme=dark" />
 </p>
 
 ---
@@ -144,7 +143,7 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ## 🌐 Browsers & Testing
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,brave,opera,firefox&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,brave,opera,firefox&titles=true&theme=dark" />
 </p>
 
 ---
