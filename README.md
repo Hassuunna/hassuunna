@@ -72,31 +72,37 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,java,spring,postman,graphql,lambda&titles=true&perline=5&theme=dark" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,next,netlify,vite,tailwind,bootstrap,sass,css,html,jquery,figma&titles=true&perline=5&theme=dark" />
 </p>
 
 ### Desktop
 
 <p>
-  <img src="https://skillicons.dev/icons?i=electron,python,cs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=electron,qt,cs&titles=true&perline=5&theme=dark" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,sequelize,dbeaver&titles=true&perline=5&theme=dark" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,s3,heroku,jenkins,circleci,ngrok&titles=true&perline=5&theme=dark" />
+</p>
+
+### Operating Systems & Tools
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,vscode,vscodeinsiders,wireshark,xd,idea,visualstudio&titles=true&perline=5&theme=dark" />
 </p>
 
 ---
@@ -113,19 +119,34 @@ Backend / Full-Stack Engineer • System Design • AI-Powered Products
 ## 🧠 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,sql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin,python,cs,sql&titles=true&perline=5&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Optional but Popular)
+## 🧰 Development Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassuunna&show_icons=true&theme=nightowl&commits_year=2024" />
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubcopilot,replit&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,yarn,pnpm,eslint,prettier&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,apidog,expo,jwt,markdown,regex&titles=true&perline=5&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassuunna&theme=nightowl" />
+---
+
+## 🤖 AI & Collaboration
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot&titles=true&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,miro,grafana,linkedin&titles=true&perline=5&theme=dark" />
+</p>
+
+---
+
+## 🌐 Browsers & Testing
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome,brave,opera&titles=true&perline=5&theme=dark" />
 </p>
 
 ---
